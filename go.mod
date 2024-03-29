@@ -1,4 +1,4 @@
-module github.com/keshon/melodix-player
+module github.com/NICK-FURY-6023/twister-music
 
 go 1.21
 toolchain go1.22.1
@@ -8,9 +8,9 @@ require (
 	github.com/gin-gonic/gin v1.9.1
 	github.com/gookit/slog v0.5.5
 	github.com/joho/godotenv v1.5.1
-	github.com/keshon/melodix-player/mod-about v0.0.0-20240315140841-f28a697ccb17
-	github.com/keshon/melodix-player/mod-helloworld v0.0.0-20240315140841-f28a697ccb17
-	github.com/keshon/melodix-player/mod-music v0.0.0-20240315140841-f28a697ccb17
+	github.com/NICK-FURY-6023/twister-music/mod-about v0.0.0-20240315140841-f28a697ccb17
+	github.com/NICK-FURY-6023/twister-music/mod-helloworld v0.0.0-20240315140841-f28a697ccb17
+	github.com/NICK-FURY-6023/twister-music/mod-music v0.0.0-20240315140841-f28a697ccb17
 	gorm.io/driver/sqlite v1.5.5
 	gorm.io/gorm v1.25.7
 )
