@@ -1,6 +1,7 @@
 version: 2
 updates:
-  - package-ecosystem: "" # See documentation for possible values
-    directory: "/" # Location of package manifests
+  - package-ecosystem: "go"
+    directory: "/"  # Adjust this according to your project structure
     schedule:
-      interval: "weekly"
+      interval: "daily"  # Adjust the update frequency as needed
+      
